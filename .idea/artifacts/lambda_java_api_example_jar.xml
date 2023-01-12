@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lambda-java-api-example:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lambda_java_api_example_jar</output-path>
+    <root id="archive" name="lambda-java-api-example.jar">
+      <element id="module-output" name="lambda-java-api-example" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.1.0/aws-lambda-java-core-1.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
